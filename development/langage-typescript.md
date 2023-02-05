@@ -6,28 +6,53 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
-- les classes et les decorators ❌ / ✔️
+
+- l'intéret de TypeScript dans l'IDE ✔️
+- les types de bases ✔️
+- comment et pourquoi étendre une interface ✔️
+- les classes et les decorators ✔️
+
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté  ✔️
+  
+```typescript
+// Déclaration d'une interface User, spécifiant le type de ses propriétés (email et password doivent être de type string)
+interface User {
+  email: string;
+  password: string;
+}
 
-### Utilisation dans un projet ❌ / ✔️
+// Définition d'une fonction affichant l'email d'un utilisateur. Cette fonction prend en paramètre un objet de type User
+function displayEmail(user: User) {
+  console.log(user.email);
+}
 
-[lien github](...)
+// Instanciation d'un objet de type User
+const userToto: User = {
+  email: "toto", // si on met un nombre ici, on aura une erreur car le type de la propriété email est string
+  password: "toto",
+};
 
-Description :
+// Appel de la fonction displayEmail avec l'objet userToto en paramètre
+displayEmail(userToto);
+```
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien du projet](...)
+[https://github.com/WildCodeSchool/2203-wns-etchebest-tfs-front/](...)
 
-Description :
+Description : Projet de groupe, application de ticketing - utilisation de TypeScript dans un projet NextJS
 
-### Utilisation en environement professionnel ❌ / ✔️
+
+### Utilisation en production si applicable ✔️
+
+[https://staging.etchebest-1-04-22.wilders.dev/login](...)
+
+Description : Projet de groupe, instance de staging
+
+### Utilisation en environement professionnel ❌
 
 Description :
 
@@ -35,24 +60,24 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- https://www.typescriptlang.org/docs/
+- documentation officielle de TypeScript
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌
 
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- action 1 ❌
+- action 2 ❌
 - ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌
