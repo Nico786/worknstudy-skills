@@ -49,7 +49,7 @@ test.describe("Struture App", ()=>{
 
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
 [https://github.com/WildCodeSchool/2203-wns-etchebest-tfs-front](...)
 
@@ -61,9 +61,9 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel  ✔️
 
-Description :
+Description : Réalisation de tests unitaires (views et urls django)
 
 ## 🌐 J'utilise des ressources
 
