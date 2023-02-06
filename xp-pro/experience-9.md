@@ -1,32 +1,21 @@
-# Période en entreprise du 23/11/2020 au 11/12/2020
-
-> Répond aux questions suivantes afin de préparer le partage d'expérience avec ton groupe
-
-## Intégration
-
-1. S'agit il de tes premiers jours dans l'entreprise ? (Si non, précise la date d'entrée)
-
-2. Décris comment se déroule la communication avec ton tuteur. (fréquence, valeur de l'aide ajoutée)
-
-3. Décris ta mission actuelle au sein de l'entreprise
-
-4. Qu'est ce qui a bien fonctionné en terme de communication avec ton équipe ?
-
-5. Qu'est ce qui n'a pas bien fonctionné en terme de communication avec le reste de l'équipe ?
-
-6. Quelle(s) proposition(s) pourrais tu faire pour améliorer ton intégration dans l'équipe ?
+# Période en entreprise du 19/12/22 au 10/02/2023
 
 ## Expérience technique
 
-1. Quel est le projet principal sur lequel tu as travaillé sur cette période. (liste les projets si il y en a plusieurs) ?
+1. Quel est le projet principal sur lequel tu as travaillé sur cette période. (liste les projets si il y en a plusieurs) ?  
+Station blanche + application web
 
 2. Quelle est la tâche la plus intéressante accomplie lors de cette période ?
+Intégration de la partie ticketing dans l'application web  
 
-3. Ta plus grosse réussite ?
+3. Ta plus grosse réussite ?  
+Intégration de la partie ticketing dans l'application web a partir de django-todo, et modification des templates, configuration de l'upload de  fichiers
 
-4. La plus grosse difficulté (echec ou perte de temps) ?
+4. La plus grosse difficulté (echec ou perte de temps) ?  
+Nous avons du revoir nos groupes utilisateurs, j'ai donc du adapter à ces nouveaux groupes les schémas, les modèles, les fixtures, les permissions des vues...
 
-5. Quel langage as tu le plus utilisé ?
+5. Quel langage as tu le plus utilisé ?  
+Python
 
 6. Quel design pattern as tu pu identifier ?
 
