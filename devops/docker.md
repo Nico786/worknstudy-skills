@@ -6,9 +6,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la création d'une image docker ❌ / ✔️
-- l'éxécution d'un container ❌ / ✔️
-- l'orchestration de containers avec docker-compose ❌ / ✔️
+- la création d'une image docker  ✔️
+- l'éxécution d'un container  ✔️
+- l'orchestration de containers avec docker-compose  ✔️
 
 
 ## 💻 J'utilise
@@ -17,19 +17,19 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[https://github.com/WildCodeSchool/2203-wns-etchebest-tfs-back](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ✔️
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : Oui, j'utilise docker dans mon entreprise
 
 ## 🌐 J'utilise des ressources
 
