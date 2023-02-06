@@ -6,26 +6,26 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- ce que c'est ❌ / ✔️
-- comment deployer une application sur une PaaS ❌ / ✔️
+- ce que c'est ✔️
+- comment deployer une application sur une PaaS  ✔️
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
+[http://www.oners-bd.fr/](...)
+
+Description : site vitrine déployée avec heroku pour une bd "webtoon" - en cours
+
+### Utilisation en production si applicable ✔️
+
+[http://www.oners-bd.fr/](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
-
-Description :
-
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ 
 
 Description :
 
@@ -33,8 +33,7 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- https://www.heroku.com/
 
 ## 🚧 Je franchis les obstacles
 

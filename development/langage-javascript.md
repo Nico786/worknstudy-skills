@@ -36,7 +36,7 @@ Description : site vitrine pour une bd "webtoon" - en cours
 
 ### J'ai utilisé ce langage en production ✔️
 
-[https://oners-demo.herokuapp.com]
+[http://www.oners-bd.fr/]
 
 Description : site vitrine (déployé) pour une bd "webtoon" - en cours
 
