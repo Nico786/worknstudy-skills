@@ -17,7 +17,7 @@
 
 [http://www.oners-bd.fr/](...)
 
-Description : site vitrine déployée avec heroku pour une bd "webtoon" - en cours
+Description : site vitrine déployé avec heroku pour une bd "webtoon" - en cours
 
 ### Utilisation en production si applicable ✔️
 

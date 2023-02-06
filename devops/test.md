@@ -6,12 +6,12 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les tests unitaires ❌ / ✔️
-- les mocks ❌ / ✔️
-- les tests d'integration ❌ / ✔️
-- les tests de bout en bout (end to end) ❌ / ✔️
-- le TDD ❌ / ✔️
-- les tests par snapshot ❌ / ✔️
+- les tests unitaires ✔️
+- les mocks  ✔️
+- les tests d'integration  ✔️
+- les tests de bout en bout (end to end)  ✔️
+- le TDD  ✔️
+- les tests par snapshot ❌ 
 
 ## 💻 J'utilise
 
@@ -19,9 +19,9 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[https://github.com/WildCodeSchool/2203-wns-etchebest-tfs-front](...)
 
-Description :
+Description : Ajout d'un test end to end avec playwright pour vérifier que l'on peut s'inscrire à l'application, que l'on peut se déconnecter, et que l'on peut se connecter à nouveau. En plus, test pour empecher l'envoi du formulaire incorrect
 
 ### Utilisation en production si applicable❌ / ✔️
 
