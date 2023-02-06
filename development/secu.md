@@ -38,7 +38,7 @@ Description : Projet de groupe, application de ticketing - utilisation de l'ORM 
 
 ### Utilisation en production si applicable ✔️
 
-[https://staging.etchebest-1-04-22.wilders.dev/](...)
+[https://etchebest-1-04-22.wilders.dev/](...)
 
 Description :
 

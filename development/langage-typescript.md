@@ -48,7 +48,7 @@ Description : Projet de groupe, application de ticketing - utilisation de TypeSc
 
 ### Utilisation en production si applicable ✔️
 
-[https://staging.etchebest-1-04-22.wilders.dev/login](...)
+[https://etchebest-1-04-22.wilders.dev/login](...)
 
 Description : Projet de groupe, instance de staging
 
