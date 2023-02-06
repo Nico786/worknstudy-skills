@@ -1,33 +1,26 @@
-# Période en entreprise du 23/11/2020 au 11/12/2020
-
-> Répond aux questions suivantes afin de préparer le partage d'expérience avec ton groupe
-
-## Intégration
-
-1. S'agit il de tes premiers jours dans l'entreprise ? (Si non, précise la date d'entrée)
-
-2. Décris comment se déroule la communication avec ton tuteur. (fréquence, valeur de l'aide ajoutée)
-
-3. Décris ta mission actuelle au sein de l'entreprise
-
-4. Qu'est ce qui a bien fonctionné en terme de communication avec ton équipe ?
-
-5. Qu'est ce qui n'a pas bien fonctionné en terme de communication avec le reste de l'équipe ?
-
-6. Quelle(s) proposition(s) pourrais tu faire pour améliorer ton intégration dans l'équipe ?
+# Période en entreprise du 05/09/2022 au 23/09/2022
 
 ## Expérience technique
 
-1. Quel est le projet principal sur lequel tu as travaillé sur cette période. (liste les projets si il y en a plusieurs) ?
+1. Quel est le projet principal sur lequel tu as travaillé sur cette période. (liste les projets si il y en a plusieurs) ?  
+Projet de station blanche, outil d'administration en ligne
 
-2. Quelle est la tâche la plus intéressante accomplie lors de cette période ?
+2. Quelle est la tâche la plus intéressante accomplie lors de cette période ?  
+Un nouvel apprenti a intégré l'équipe. Il suit une alternance dans le domaine de la cybersecurité. Il à audité l'application sur laquelle j'ai travaillé depuis le début, et a effectué des tests d'intrusion. Il a par la suite dressé la liste des vulnérabilités. J'avais lu que Django était un framework permettant un certain niveau de sécurité "built-in", mais je ne m'étais pas attardé plus que ça sur la sécurité: d'abord le fonctionnel. J'ai donc passé la semaine à corrigé ces failles de sécurité
 
-3. Ta plus grosse réussite ?
 
-4. La plus grosse difficulté (echec ou perte de temps) ?
+3. Ta plus grosse réussite ?  
+Fixer les vulnérabilités de sécurité, en effectuant une veille et en appliquant les bonnes pratiques
 
-5. Quel langage as tu le plus utilisé ?
+4. La plus grosse difficulté (echec ou perte de temps) ?  
+Le projet présente encore quelque bugs; certains dûs à des modifications de mon collègue, les logs se mélangeaient entre les différents services docker. J'avais du mal à m'y retrouver pour le debug. 
 
-6. Quel design pattern as tu pu identifier ?
+5. Quel langage as tu le plus utilisé ?  
+Python
 
-7. Sur quel point ton formateur ou ton groupe peuvent ils t'aider ?
+6. Quel design pattern as tu pu identifier ?  
+MVT
+DRY
+
+7. Sur quel point ton formateur ou ton groupe peuvent ils t'aider ?  
+Django - Linux
