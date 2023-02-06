@@ -6,19 +6,33 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP  ✔️
+- les statuts HTTP  ✔️
+- les endpoints ✔️
+- CORS ✔️
+- la nomenclature recommandée pour les routes ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+```
+  Requête GET sur le endpoint /api/V1/personnages pour récupérer la liste de personnages:
 
-[lien github](...)
+  const [personnages, setPersonnages] = useState([]);
+
+  useEffect(() => {
+    axios
+      .get("/api/v1/personnages")
+      .then((res) => setPersonnages(res.data))
+      .catch((err) => console.log(err));
+  }, []);
+
+```
+
+### Utilisation dans un projet  ✔️
+
+[https://github.com/Nico786/oners](...)
 
 Description :
 
@@ -28,9 +42,9 @@ Description :
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : J'ai utilisé une API Django Rest Framework, API REST et implémenté des endpoints pour manipuler des données
 
 ## 🌐 J'utilise des ressources
 
