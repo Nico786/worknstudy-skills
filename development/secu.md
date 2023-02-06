@@ -6,36 +6,51 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- Le rôle de l'OWASP ❌ / ✔️
-- Les injections SQL ❌ / ✔️
-- XSS ❌ / ✔️
-- CRSF ❌ / ✔️
+- Le rôle de l'OWASP  ✔️
+- Les injections SQL  ✔️
+- XSS  ✔️
+- CRSF  ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+```
+// l'ORM Prisma permet de sécuriser les requêtes SQL en préparant les requêtes avant de les envoyer à la base de données, permettant ainsi de se prémunir des injections SQL
 
-[lien github](...)
+prisma = new PrismaClient();
+
+ const user = await prisma.user.create({
+        data: {
+          firstname: firstname.trim(),
+          lastname: lastname.trim(),
+          email: email.trim().toLowerCase(),
+          password
+      },
+
+```
+
+### Utilisation dans un projet ✔️
+
+[https://github.com/WildCodeSchool/2203-wns-etchebest-tfs-back](...)
+
+Description : Projet de groupe, application de ticketing - utilisation de l'ORM Prisma
+
+### Utilisation en production si applicable ✔️
+
+[https://staging.etchebest-1-04-22.wilders.dev/](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en environement professionnel  ✔️
 
-[lien du projet](...)
-
-Description :
-
-### Utilisation en environement professionnel ❌ / ✔️
-
-Description :
+Description : Utilisation de l'api QuerySet de Django, permettant de sécuriser les requêtes SQL
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
+- https://www.prisma.io/docs
 - description
 
 ## 🚧 Je franchis les obstacles
